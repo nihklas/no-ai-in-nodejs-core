@@ -105,6 +105,7 @@ speed up the process.
 - Ben Vinnerd (Javascript/Typescript Developer)
 - Brandon Berg (Systems Engineer)
 - Nicolai Kamenzky (SaaS founder, depending on Node.js since 2014)
+- Johnathan Stevers (Programmer)
 - Dimitri Do Bairro (@Tictactrip founder, depending on Node.js since 2016)
 - Stephen Smit (Software Engineering Manager)
 
